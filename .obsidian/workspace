@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "cbe4e7a6e3e85e93",
+    "type": "split",
+    "children": [
+      {
+        "id": "71937e8ff11f9789",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02ca9085b55fcab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "922e1000384ab5d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53ec39995a446f2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "425185b788ab5399",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "732225b6a7c602c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "536f0a4ff606f797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d51e91cd9d507e0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "71937e8ff11f9789",
+  "lastOpenFiles": [
+    "README.md",
+    "OSI-Model/Layers/Layer_3_Network.md",
+    "OSI-Model/Layers/Layer_2_Data_Link.md",
+    "OSI-Model/Layers/Layer_1_Physical.md",
+    "Resources/OSI_Model.jpg",
+    "OSI-Model/2_Data_Encapsulation_and_Decapsulation.md",
+    "OSI-Model/1_Introduction.md",
+    "Network+/Resources.md",
+    "Network+/OSI Model/Layers.md"
+  ]
+}
